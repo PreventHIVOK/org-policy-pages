@@ -1,0 +1,15 @@
+{
+    "name": "preventhivok/jekyll-policy-pages",
+    "description": "Build PHOK policy pages using Jekyll",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Curtis Blumer",
+            "email": "curtis.blumer@gmail.com"
+        }
+    ],
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "require": {}
+}

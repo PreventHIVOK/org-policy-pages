@@ -1,0 +1,23 @@
+{
+  "name": "jekyll-policy-pages",
+  "version": "0.1.0",
+  "description": "Build PHOK policy pages using Jekyll",
+  "main": "_site/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreventHIVOK/org-policy-pages.git"
+  },
+  "keywords": [
+    "jekyll",
+    "static site builder"
+  ],
+  "author": "CurtisBlumer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PreventHIVOK/org-policy-pages/issues"
+  },
+  "homepage": "https://github.com/PreventHIVOK/org-policy-pages#readme"
+}

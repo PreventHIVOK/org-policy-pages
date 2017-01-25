@@ -1,0 +1,24 @@
+{
+  "name": "jekyll-policy-generator",
+  "description": "Build PHOK policy pages using Jekyll",
+  "main": "_site/index.html",
+  "authors": [
+    "CurtisBlumer"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jekyll",
+    "static",
+    "site",
+    "builder"
+  ],
+  "homepage": "https://github.com/PreventHIVOK/org-policy-pages",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
